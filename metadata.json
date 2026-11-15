@@ -1,0 +1,6 @@
+{
+  "name": "The Toughest Pixel",
+  "description": "An unforgiving, pixel-perfect 2D precision platformer gauntlet with razor-tight controls, telegraphed lasers, spinning saws, and brutal obstacle courses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
